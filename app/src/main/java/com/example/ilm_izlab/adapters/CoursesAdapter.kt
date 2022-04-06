@@ -11,7 +11,7 @@ import com.example.ilm_izlab.model.SciencesModel
 import com.example.ilm_izlab.screen.edudetail.EduDetailActivity
 import com.example.ilm_izlab.screen.teacher.TeacherActivity
 import com.example.ilm_izlab.utils.Constants
-
+// first commit
 class CoursesAdapter(val items: List<CoursesModel>):
     RecyclerView.Adapter<CoursesAdapter.ItemHolder>() {
 
