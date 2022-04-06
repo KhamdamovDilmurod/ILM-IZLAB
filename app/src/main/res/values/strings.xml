@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">ILM-IZLAB</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_description">As of December 2019, the International Union for Conservation of Nature (IUCN) lists 460 endangered avian species.[1] 4% of all evaluated avian species are listed as endangered. No subpopulations of birds have been evaluated by the IUCN.
+For a species to be considered endangered by the IUCN it must meet certain quantitative criteria which are designed to classify taxa facing "a very high risk of extinction." An even higher risk is faced by critically endangered species, which meet the quantitative criteria for endangered species. Critically endangered birds are listed separately. There are 683 avian species which are endangered or critically endangered.
+Additionally 53 avian species (0.48% of those evaluated) are listed as data deficient, meaning there is insufficient information for a full assessment of conservation status. As these species typically have small distributions and/or populations, they are intrinsically likely to be threatened, according to the IUCN.[2] While the category of data deficient indicates that no assessment of extinction risk has been made for the taxa, the IUCN notes that it may be appropriate to give them "the same degree of attention as threatened taxa, at least until their status can be assessed.</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="check_connection">Iltimos internet sozlamalarini tekshiring va ilovani qayta ishga tushuring.</string>
+</resources>

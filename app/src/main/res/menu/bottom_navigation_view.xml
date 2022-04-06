@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24"/>
+    <item android:id="@+id/search"
+        android:title="Search"
+        android:icon="@drawable/ic_baseline_search_24"/>
+    <item android:id="@+id/location"
+        android:title="Location"
+        android:icon="@drawable/ic_baseline_map_24"/>
+    <item android:id="@+id/amp"
+        android:title="Amp"
+        android:icon="@drawable/ic_baseline_amp_stories_24"/>
+    <item android:id="@+id/subscribe"
+        android:title="Subscribe"
+        android:icon="@drawable/ic_baseline_broadcast"/>
+</menu>
