@@ -10,7 +10,7 @@ import com.example.ilm_izlab.R
 import com.example.ilm_izlab.model.TrainingCentersModel
 import com.example.ilm_izlab.utils.Constants
 
-class PagerAdapter(var images: ArrayList<String>, val item: TrainingCentersModel): RecyclerView.Adapter<PagerAdapter.ViewPagerHolder>() {
+class PagerAdapter(var images: ArrayList<String>): RecyclerView.Adapter<PagerAdapter.ViewPagerHolder>() {
     inner class ViewPagerHolder(itemView: View): RecyclerView.ViewHolder(itemView){
         val image = itemView.findViewById<ImageView>(R.id.itemImage)
     }

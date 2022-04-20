@@ -59,7 +59,7 @@ class EduDetailActivity : AppCompatActivity() {
         //-------------Pager Adapter-------------//
         val images = item.images
         images.add(0, item.main_image)
-        pagerAdapter = PagerAdapter(images,item)
+        pagerAdapter = PagerAdapter(images)
         binding.imagePager.adapter = pagerAdapter
         binding.imagePager.registerOnPageChangeCallback(object: ViewPager2.OnPageChangeCallback(){
             override fun onPageSelected(position: Int) {
